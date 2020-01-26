@@ -1,0 +1,7 @@
+.envrc
+.terraform
+*tfstate*
+.venv
+.vscode
+.DS_Store
+Pipfile*
